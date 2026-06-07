@@ -1,4 +1,5 @@
 # Humoral Vector Theory (HVT) for Beinecke MS 408 Decipherment
+https://doi.org/10.6084/m9.figshare.32492736
 
 An open-source replication kit reconstructing a 15th-century conceptual notation framework founded on Galenic-Aristotelian/Avicennian medical thermodynamics.
 
