@@ -19,7 +19,7 @@ Rather than treating the Voynich Manuscript as an alphabetic or linguistic ciphe
   * `Translation Method Layout—113, Front (Microcosm Humoral Context_Practica).pdf`
 
 ## 🛠️ Replication Workflow
-To verify the system's structural consistency, install the provided custom font and cross-reference the raw script on any page, first against the variables in the `HVT Notation Sheet.pdf`, and secondly against the permutations in the `HVT Decipherment Key_1.0 for Beinecke MS 408.xlsx - Sheet 1 - HVT Decipherment Key .csv`, using the grammatical rules and spacing guidelines outlined in the paper. From the second-level decipherment, a general understanding can be formed to put together a 'best attempt' translation, using the constraints of the humoral interpretation of the text. 
+To verify the system's structural consistency, install the provided custom font and cross-reference the raw script on any page, first against the variables in the `HVT Notation Sheet.pdf`, and secondly against the permutations in the `HVT Decipherment Key_1.0 for Beinecke MS 408.xlsx - Sheet 1 - HVT Decipherment Key .csv`, using the grammatical rules and spacing guidelines outlined in the paper. From the second-level decipherment, a general understanding can be formed to put together a 'best attempt' translation, using the constraints of the humoral interpretation of the text. Templates for each step are included, along with text replacement keyboard suggestions to streamline manual first-level decipherment.
 
 ## 📨 Peer Review & Collaboration
 This repository serves as a peer-to-peer verification hub for historians of medieval science, systems architects, and computational paleographers. 
