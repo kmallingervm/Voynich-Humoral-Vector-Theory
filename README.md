@@ -4,7 +4,7 @@ https://doi.org/10.6084/m9.figshare.32492736
 An open-source replication kit reconstructing a 15th-century conceptual notation framework founded on Galenic-Aristotelian/Avicennian medical thermodynamics.
 
 ## 📊 Structural Overview
-Rather than treating the Voynich Manuscript as an alphabetic or linguistic cipher, the HVT framework establishes that the script operates as a variable-driven, polysemic notation language, constrained by historically-established humoral logic. Individual glyphs map directly to physiological vectors (Humors, Elements, Virtues, and Spirits) which synthesize dynamically based on contextual medical grammar.
+Rather than treating the Voynich Manuscript as an alphabetic or linguistic cipher, the HVT framework establishes that the script operates as a variable-driven, polysemic notation language, constrained by historically-established humoral logic. Individual glyphs map directly to physiological vectors (Humors, Elements, Faculties, and Spirits) which synthesize dynamically based on contextual medical grammar.
 
 ## 🗂️ Replication Kit Contents
 * **`Paper_Humoral Vector Theory for Voynich Decipherment (PDF).pdf`**: The core 91-page engineering thesis and methodology statement.
